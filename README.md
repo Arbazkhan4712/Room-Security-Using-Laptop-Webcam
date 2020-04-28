@@ -35,5 +35,5 @@ http://0.0.0.0:5000
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
 
-Licensed under the [MIT License](License)
+Licensed under the [MIT License](LICENSE)
 
